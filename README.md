@@ -1,4 +1,4 @@
-# Restaurant Management System
+# DineEase: Smart Restaurant Manager
 
 ## Project Overview
 The **Restaurant Management System** is a Python-based application designed to streamline restaurant operations, including product and category management, employee management, order processing, and billing. It is equipped with an intuitive admin and employee dashboard for efficient management and tracking.
