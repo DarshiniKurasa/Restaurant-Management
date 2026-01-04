@@ -1,0 +1,22 @@
+ 
+		FlavoursFusion-Restaurant
+	 Phone No. 98725***** , Delhi-125001
+===============================================
+
+Customer Name: Ravali
+ph no. :9876543215
+Bill No. 13132850		Date: 13/03/2024
+===============================================
+Dish Name			QTY	Price
+===============================================
+        
+ Chilli chicken			2	Rs.500.0
+ Sp. Veg Biryani			2	Rs.400.0
+ Panner Manchurian			1	Rs.150.0
+===============================================
+ Bill Amount				Rs.1050.0
+ Discount				Rs.52.5
+ Net Pay				Rs.997.5
+===============================================
+
+        
